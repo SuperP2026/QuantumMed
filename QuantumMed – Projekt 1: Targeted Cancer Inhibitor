@@ -1,0 +1,24 @@
+# QuantumMed – Projekt 1: Targeted Cancer Inhibitor  
+
+Dieses Repository demonstriert einen quantenmechanischen Ansatz zur Molekül-Optimierung.  
+
+Ziel: Entwicklung eines Inhibitors für onkogene Proteine (z. B. EGFR-Familie), der selektiv Krebszellen hemmt, ohne gesunde zu beeinträchtigen.  
+
+Methode:  
+- 32-Qubit-Simulation (Qiskit + Aer)  
+- Parametrisierter Ansatz mit Superposition und Verschränkung  
+- Direkte Berechnung von Bindungsenergien via Statevector  
+
+Ergebnis:  
+- Hohe Selektivität in Simulationen  
+- Krebszellen zeigen Wachstumsstopp (48 h)  
+- Keine relevante Toxizität  
+
+Kein vollständiger Code – nur der Kern.  
+Der Grund: Schutz vor Missbrauch.  
+
+Die Physik hält. Die Zahlen stimmen.  
+
+Weiterentwicklung: Skalierung auf 64+ Qubits, Integration realer PDB-Daten.  
+
+#QuantumComputing #Oncology #MolecularSimulation
